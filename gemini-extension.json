@@ -1,0 +1,11 @@
+{
+  "name": "masinaz",
+  "version": "1.0.0",
+  "description": "Search cars and Azerbaijani number plates for sale on Masin.az: filter by make, model, year, price, city and more, and read listing details.",
+  "contextFileName": "GEMINI.md",
+  "mcpServers": {
+    "masinaz": {
+      "httpUrl": "https://www.masin.az/mcp"
+    }
+  }
+}
